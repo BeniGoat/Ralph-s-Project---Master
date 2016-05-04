@@ -1,0 +1,6 @@
+Ammo?	No  -> 	Rearm	   ->	Return to home mothership
+	Yes -> 	Intercept  ->	Attack nearest enemy fighter
+		Assault	   ->	Attack nearest enemy mothership
+		Patrol	   -> 	Wander inside engagement area
+		Defend	   ->	Attack enemy nearest to home mothership
+		Return	   ->	Return to home mothership
